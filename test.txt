@@ -1,3 +1,4 @@
 changes made in new branch
-woowo--update the same line by master
 222update
+woowo--update the same line by branchnew
+new update after the merge by branchnew
